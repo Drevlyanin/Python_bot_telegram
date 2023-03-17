@@ -1,7 +1,7 @@
 # Python_bot_telegram
 
 <div id="header" align="center">
-  <img src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="200"/>
+  <img src="https://media.tenor.com/s-XyqNCtw7QAAAAj/telegram.gif" width="200"/>
 </div>
 <div id="badges" align="center">
 <h1>
