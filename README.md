@@ -14,9 +14,6 @@ This is a Python Telegram bot that is still in development. The bot is built usi
 
 The bot has three main functions:
 
-To respond with a greeting message when the user sends the "start", "main", or "hello" command.
-To open a specific website when the user sends the "site" or "website" command.
-To respond with the user's ID when the user sends the "id" command.
-To use this bot, you will need to create a Telegram bot and obtain an API token. Replace the empty string '' on line 4 with your API token.
+
 
 Note that this bot is still in development and may not have full functionality yet.
